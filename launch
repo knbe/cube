@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#julia -Jext.so -Jabstractffts.so
+julia -Jext.so -Jfftw.so
