@@ -1,2 +1,5 @@
 *.so
 *.dat
+old/
+ext/
+data/
